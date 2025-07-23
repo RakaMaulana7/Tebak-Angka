@@ -34,7 +34,7 @@ tebak-angka/
 
 ## 📷 Tampilan
 
-![preview]([https://dummyimage.com/600x350/2b6cb0/ffffff&text=Preview+Game+Tebak+Angka](https://rakamaulana7.github.io/Tebak-Angka/))
+![preview]([[https://dummyimage.com/600x350/2b6cb0/ffffff&text=Preview+Game+Tebak+Angka](https://rakamaulana7.github.io/Tebak-Angka/)](https://github.com/RakaMaulana7/Tebak-Angka/blob/main/previuw.png?raw=true))
 
 ---
 
